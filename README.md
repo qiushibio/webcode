@@ -1,1 +1,2 @@
-# webcode
+# 求生网站的yml文件以及source
+先按照tutorial安装好本地的库之后，再将此处的source与yml文件放进根目录中，覆盖其原本的文件即可
